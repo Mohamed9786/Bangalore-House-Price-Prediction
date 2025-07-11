@@ -100,7 +100,7 @@ http://127.0.0.1:5000/
 
 ## 📷 Screenshots (Optional)
 
-> *(You can add screenshots here for better visuals.)*
+![App Screenshot](https://github.com/Mohamed9786/Bangalore-House-Price-Prediction/blob/main/client/Screenshot.png?raw=true)
 
 ---
 
