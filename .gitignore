@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask
+instance/
+.env
+*.sqlite3
+*.db
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs & Temp
+*.log
+*.tmp
+
+# Node (if using frontend build tools)
+node_modules/
+dist/
+build/
